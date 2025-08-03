@@ -1,7 +1,7 @@
 # network-banner-grabbing-project
 
 ## Overview
-This mini lab explores the use of banner-grabbing techniques to identify software and service information from running network services. By analyzing service responses, this lab illustrates the types of metadata attackers can obtain and the risks of exposing such information.
+This project explores the use of banner-grabbing techniques to identify software and service information from running network services. By analyzing service responses, this lab illustrates the types of metadata attackers can obtain and the risks of exposing such information.
 
 ---
 
